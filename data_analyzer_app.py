@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import plotly.graph_objects as go
 import seaborn as sns
 import matplotlib.pyplot as plt
 from langchain_openai import ChatOpenAI

@@ -181,7 +181,7 @@ Distributed under the MIT License.
 
 Lead Developer
 
-[Your Name Here]
+Anuj Zanje
 
 Project Link
 
